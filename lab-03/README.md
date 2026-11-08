@@ -1,12 +1,12 @@
 | Information | Details | Additional Information |
 |---|---|---|
-| Student Name | [ENTER YOUR FULL NAME HERE] | |
-| Student Registration Number | [ENTER YOUR REGISTRATION NUMBER HERE] | Class & Section: 313 AI DE 2B |
+| Student Name | N. GOPAL | |
+| Student Registration Number | 252U1R5113 | Class & Section: 313 AI DE 2B |
 | Study Level : UG/PG/Doctorate | UG | Year & Term: 2 & 2 |
 | Subject Name | Backend Development Fundamentals | |
 | Teacher / Faculty Name | Mr Yugandhar Gurjalwar | |
 | Name of the Assessment | LAB REPORT - 3 | |
-| Date of Submission | 6/11/2026 | |
+| Date of Submission | 7/11/2026 | |
 
 # Lab 3: REST API, query parameters, validation, debugging
 
