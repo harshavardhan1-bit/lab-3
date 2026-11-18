@@ -4,7 +4,7 @@
 | Student Registration Number | 2521UR5085 | Class & Section: 313 AI DE 2B |
 | Study Level : UG/PG/Doctorate | UG | Year & Term: 2 & 2 |
 | Subject Name | Backend Development Fundamentals | |
-| Teacher / Faculty Name | Joel Prashanth D | |
+| Teacher / Faculty Name | Mr Yugandhar Gurjalwar | |
 | Name of the Assessment | LAB REPORT - 4 | |
 | Date of Submission | 18/11/2026 | |
 | GitHub Repository | [https://github.com/harshavardhan1-bit/lab-3](https://github.com/harshavardhan1-bit/lab-3) | |
