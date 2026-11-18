@@ -7,7 +7,7 @@
 | Teacher / Faculty Name | Joel Prashanth D | |
 | Name of the Assessment | LAB REPORT - 4 | |
 | Date of Submission | 18/11/2026 | |
-| GitHub Repository | [https://github.com/gopal-crypto/lab-3](https://github.com/gopal-crypto/lab-3) | |
+| GitHub Repository | [https://github.com/harshavardhan1-bit/lab-3](https://github.com/harshavardhan1-bit/lab-3) | |
 
 # Lab 4: Registration, login and JWT
 
